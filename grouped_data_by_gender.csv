@@ -1,0 +1,5 @@
+,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Calories Burned,Calories Burned,Calories Burned,Calories Burned,Calories Burned,Calories Burned
+,sum,mean,count,min,max,std,sum,mean,count,min,max,std,sum,mean,count,min,max,std
+Gender,,,,,,,,,,,,,,,,,,
+f,421,8.42,50,5,9,0.7024737630368144,447000,8940.0,50,3500,10500,1048.0302223403555,132700,2654.0,50,2100,2900,135.46593818433942
+m,279,5.58,50,4,9,1.213697336443397,236000,4720.0,50,3000,11000,1558.9111846518563,109400,2188.0,50,2000,2900,174.54313542058583

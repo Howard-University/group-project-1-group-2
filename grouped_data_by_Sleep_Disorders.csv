@@ -1,0 +1,5 @@
+,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Calories Burned,Calories Burned,Calories Burned,Calories Burned,Calories Burned,Calories Burned
+,sum,mean,count,min,max,std,sum,mean,count,min,max,std,sum,mean,count,min,max,std
+Sleep Disorders,,,,,,,,,,,,,,,,,,
+no,580,7.837837837837838,74,6,9,1.0857359984244388,592000,8000.0,74,5000,11000,1739.9417404827016,188600,2548.6486486486488,74,2200,2900,206.06771279951357
+yes,120,4.615384615384615,26,4,7,0.6972473349922869,91000,3500.0,26,3000,5000,547.7225575051662,53500,2057.6923076923076,26,2000,2200,57.77942140988897
