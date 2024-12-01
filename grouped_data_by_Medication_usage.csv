@@ -1,0 +1,5 @@
+,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Sleep Quality,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Daily Steps,Calories Burned,Calories Burned,Calories Burned,Calories Burned,Calories Burned,Calories Burned
+,sum,mean,count,min,max,std,sum,mean,count,min,max,std,sum,mean,count,min,max,std
+Medication Usage,,,,,,,,,,,,,,,,,,
+no,600,7.5,80,4,9,1.4755389489516766,603000,7537.5,80,3000,11000,2217.2725291119345,200000,2500.0,80,2000,2900,252.45628773153942
+yes,100,5.0,20,4,7,1.1697953037312039,80000,4000.0,20,3000,6000,1246.0463791317595,42100,2105.0,20,2000,2300,123.43760409722458
